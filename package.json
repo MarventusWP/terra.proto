@@ -1,0 +1,12 @@
+{
+  "name": "terra.proto",
+  "version": "0.0.1",
+  "description": "This project provides code generation from the proto files.",
+  "main": "index.js",
+  "author": "Terra <engineering@terra.money> (https://terra.money)",
+  "repository": "github:terra-rebels/terra.proto",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
